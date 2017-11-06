@@ -11,7 +11,11 @@ In the spring semester of my freshman year I participated in the Honors Mentor R
 
 When I first joined, I learned about the lab's computational framework for simulating the self segregating effects of di-block copolymers (DBC). These effects are of interest due to the amount of control they enable for the structure of polymers at a micro-scale. 
 
-[seahorse image]
+<figure>
+	<img src="{{ site.baseurl }}/assets/seahorse.png" alt="Simulation on a seahorse shaped mesh"/>
+	<figcaption>A simulation run on a seahorse shaped mesh, highlighting our ability to run simulations for arbitrary shapes</figcaption>
+<figure>
+
 
 My main project consisted of developing a framework for efficiently creating phase diagrams for DBC systems under confinement. The resulting phase diagrams enable one to predict the final microstructure of a DBC system. 
 
