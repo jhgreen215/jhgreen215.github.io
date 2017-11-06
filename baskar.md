@@ -35,6 +35,6 @@ Part of my research included learning about effective communication of scientifi
    Poster Presentation - "A Computational Study of Confinement Effects in Block Copolymers"
 
 <figure>
-	<img src="{{ site.url }}/assets/ncur.jpg" alt="The author presenting at the National Conference on Undergraduate Research"/>
+	<img src="{{ site.baseurl }}/assets/ncur.jpg" alt="The author presenting at the National Conference on Undergraduate Research"/>
 	<figcaption>My presentation at the National Conference on Undergraduate Research in Memphis, Tennesse</figcaption>
 </figure>
