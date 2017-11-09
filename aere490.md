@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Product Development Technical Elective
+title: Product Development Course
 permalink: /aere490i/
 ---
 
 # "Engineering and Manufacturing Best Practices"
-
-
-Check it out!
 
 In my Fall 2017 semester I enrolled in Aerospace Engineering 490I: "Engineering and Manufacturing Best Practices". This is a product development course spoonsored by Caterpillar with the goal of designing mechanisms for lunar ice mining. The class consists of 12 mechanical and aerospace engineering students working together on feasability testing of concepts created by students from last semester's group.
 
