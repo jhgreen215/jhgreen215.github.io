@@ -7,7 +7,7 @@ permalink: /research/compm
 # Computational Physics and Mechanics Laboratory
 
 
-In the spring semester of my freshman year, I participated in the Honors Mentor Research program. This program pairs first-year honors students with faculty research mentors to participate in undergraduate research. I was paired with Dr. Baskar Ganapathysubramanian's group in the Computational Physics and Mechanics Laboratory. I continued my work with the ComPM group through the end of my second year at Iowa State.
+In the spring semester of my freshman year, I participated in ISU's Honors Mentor Research program. This program pairs first-year honors students with faculty research mentors to participate in undergraduate research. I was paired with Dr. Baskar Ganapathysubramanian's group in the Computational Physics and Mechanics Laboratory. I continued my work with the ComPM group through the end of my second year at Iowa State.
 
 When I first joined, I learned about the lab's computational framework for simulating the self-segregating effects of block copolymers (BCP). These effects are of interest due to the amount of control they enable for the structure of polymers at a micro-scale. The BCPs that we analyzed were di-block copolymers, consisting of two blocks of monomer units (an A and B block) covalently bonded to form a polymer chain. In a bulk system (or melt) of BCPs, the equilibrium or lowest energy structure is determined by two main factors: the "Flory-Huggins" parameter describing how much the A and B block dislike each other and want to segregate, and the ratio of the length of the A block to the length of the entire polymer chain.
 
@@ -23,7 +23,7 @@ I spent some of this initial time creating meshes in Matlab to be used as inputs
 
 My main project consisted of developing a framework for efficiently creating phase diagrams for BCP systems under confinement. Confinement effects, such as a BCP melt in a cylindrical nanopore template, introduce another degree of control for the final structure of a BCP melt. Modeling these confinement effects allows us to explore unique geometries and observe novel structures not seen in a bulk BCP system.
 
-Part of creating this framework required me to parametrically create and run simulations in large batches. In order to keep all of the data organized, I created scripts to easily tag data and organize it in an SQL database. 
+Part of creating this framework required me to parametrically define and run simulations in large batches. In order to keep all of the data organized, I created scripts to easily tag data and organize it in an SQL database. 
 
 Part of my research included learning about effective communication of scientific research. In order to strengthen my communication skills, I created presentations and presented at the following symposiums:
 
