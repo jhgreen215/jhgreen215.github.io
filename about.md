@@ -10,7 +10,7 @@ Hello! My name is Jonny Green and I am currently a junior at Iowa State Universi
 
 Highlighted projects:
 
-  * [Using SLA 3D printers to assist detection of foodborne pathogens]( {{ site.baseurl }}/research/claussen )
+  * [Using SLA 3D printers to assist detection of foodborne pathogens]( {{ site.baseurl }}/research/Claussen )
 
   * [Modeling microscale polymer structures using supercomputers ]( {{ site.baseurl }}/research/compm )
 
