@@ -17,7 +17,7 @@ I spent some of this initial time creating meshes in Matlab to be used as inputs
  
 <figure>
 	<img src="{{ site.baseurl }}/assets/seahorse.png" alt="Simulation on a seahorse-shaped mesh"/>
-	<figcaption>A simulation run on a seahorse-shaped mesh, highlighting our ability to run simulations for arbitrary shapes</figcaption>
+	<figcaption>A simulation run on a seahorse-shaped mesh, highlighting our ability to run simulations for arbitrary shapes. To make this, I first wrote a Matlab script that turns a solid, black and white image into a set of coordinates to be used as in input for the mesh making library. The mesh is then used for the input for the simulation. </figcaption>
 </figure>
 
 
