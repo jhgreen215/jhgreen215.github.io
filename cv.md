@@ -1,6 +1,6 @@
 ---
 title: CV
 layout: default 
-permalink: /assets/cv.pdf
+permalink: /assets/CV.pdf
 ---
 
