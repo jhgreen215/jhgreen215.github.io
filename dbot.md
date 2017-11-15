@@ -1,18 +1,17 @@
 ---
-layout: page
+layout: default
 title: D-Bot 3D Printer Build
 permalink: /dbot/
 ---
-
-## My D-Bot 3D Printer Build
-
-Check it out!
 
 3D printing is something that I have been interested ever since I interned at [Dimensionalley](https://dimensionalley.com "Dimensionalley Website") where I was able to work with a range of consumer FDM 3D printers. The design is based on the work of Thingiverse user spauda01's work, which can be found [here](https://www.thingiverse.com/thing:1001065/).
 
 The printer is nearing completion, with the frame completely assembled and most of the electronics mounted. The next step will be completing the wiring and setting up the firmware on the controller board. 
 
 [current build pic]
+
+For the most part, I have been following the standard D-Bot build guide, however I have made a few modifications. I added a third leadscrew for the z-platform in order to increase the build plate stability. The three leadscrews are connected by a belt and pulleys and driven by a single motor. 
+
 
 D-Bot Build FAQ:
 
@@ -22,11 +21,7 @@ D-Bot Build FAQ:
 
 - What are you naming your printer?
 
-   Currently, the plan is to name it after the beloved Clone High character Mr. Butlertron. In the future, I'd like to create some custom gcode to run at the end of prints to replicate his signature "Wesley" line. 
- 
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=PgGNWRtceag
-" target="_blank"><img src="http://img.youtube.com/vi/PgGNWRtceag/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+   Currently, the plan is to name it after the beloved Clone High character Mr. Butlertron. In the future, I'd like to create some custom gcode to run at the end of prints to replicate his [signature "Wesley" line.](http://www.youtube.com/watch?feature=player_embedded&v=PgGNWRtceag)
 
 - How much did this cost?
 
