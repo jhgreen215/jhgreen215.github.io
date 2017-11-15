@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ComPM Lab
 permalink: /research/compm
 ---
