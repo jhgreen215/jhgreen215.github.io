@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Product Development Course
 permalink: /aere490i/
 ---
