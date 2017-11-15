@@ -4,8 +4,6 @@ title: Otto-Bot Twitter Bot
 permalink: /ottobot/
 ---
 
-# Otto-bot Bot
-
 HackISU is Iowa State University's biannual hackathon. At the Spring 2017 edition, I created a twitter bot out of Otto Bot, the beloved mascot of ISU's student-run radio station, 88.5 KURE.
 
 <figure>
