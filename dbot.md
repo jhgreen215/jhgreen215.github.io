@@ -6,7 +6,7 @@ permalink: /dbot/
 
 3D printing is something that I have been interested ever since I interned at [Dimensionalley](https://dimensionalley.com "Dimensionalley Website") where I was able to work with a range of consumer FDM 3D printers. The design is based on the work of Thingiverse user spauda01's work, which can be found [here](https://www.thingiverse.com/thing:1001065/).
 
-The printer is nearing completion, with the frame completely assembled and most of the electronics mounted. The next step will be completing the wiring and setting up the firmware on the controller board. 
+The printer is nearing completion, with the frame completely assembled and most of the electronic components mounted. The next step will be completing the wiring and setting up the firmware on the controller board. 
 
 [current build pic]
 
