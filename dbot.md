@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: D-Bot 3D Printer Build
 permalink: /dbot/
 ---
