@@ -1,6 +1,6 @@
 ---
+layout: default
 title: CV
-layout: default 
 permalink: /assets/CV.pdf
 ---
 
