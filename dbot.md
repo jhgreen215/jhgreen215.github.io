@@ -8,8 +8,10 @@ permalink: /dbot/
 
 The printer is nearing completion, with the frame completely assembled and most of the electronic components mounted. The next step will be completing the wiring and setting up the firmware on the controller board. 
 
-[current build pic]
-
+<figure>
+	<img src="{{ site.baseurl }}/assets/dbot.JPG" alt="Recent picture of the D-Bot printer"/>
+	<figcaption></figcaption>
+</figure>
 For the most part, I have been following the standard D-Bot build guide, however I have made a few modifications. I added a third leadscrew for the z-platform in order to increase the build plate stability. The three leadscrews are connected by a belt and pulleys and driven by a single motor. 
 
 
