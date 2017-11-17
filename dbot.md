@@ -4,7 +4,7 @@ title: D-Bot 3D Printer Build
 permalink: /dbot/
 ---
 
-3D printing is something that I have been interested ever since I interned at [Dimensionalley](https://dimensionalley.com "Dimensionalley Website") where I was able to work with a range of consumer FDM 3D printers. The design is based on the work of Thingiverse user spauda01's work, which can be found [here](https://www.thingiverse.com/thing:1001065/).
+3D printing is something that I have been interested ever since I interned at [Dimensionalley](https://dimensionalley.com "Dimensionalley Website") in Berlin where I was able to work with a range of consumer FDM 3D printers. The design is based on the work of Thingiverse user spauda01's work, which can be found [here](https://www.thingiverse.com/thing:1001065/).
 
 The printer is nearing completion, with the frame completely assembled and most of the electronic components mounted. The next step will be completing the wiring and setting up the firmware on the controller board. 
 
@@ -23,11 +23,11 @@ D-Bot Build FAQ:
 
 - What are you naming your printer?
 
-   Currently, the plan is to name it after the beloved Clone High character Mr. Butlertron. In the future, I'd like to create some custom gcode to run at the end of prints to replicate his [signature "Wesley" line.](http://www.youtube.com/watch?feature=player_embedded&v=PgGNWRtceag)
+   Currently, the plan is to name it after Mr. Butlertron, the robot butler character from the Canadian animated TV show Clone High. In the future, I'd like to create some custom gcode to run at the end of prints to replicate his [signature "Wesley" line](http://www.youtube.com/watch?feature=player_embedded&v=PgGNWRtceag)
 
 - How much did this cost?
 
-   Excluding tools purchases, costs are currently sitting at around $650
+   Excluding tools purchases, costs are currently sitting at about $650
 
    
 
