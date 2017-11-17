@@ -37,13 +37,13 @@ In addition to my work with microfluidics, I have also designed and printed misc
 
 <figure>
 	<img src="{{ site.baseurl }}/assets/luhr_barb_render.PNG" alt="3D render of Luhr Barb"/>
-	<figcaption></figcaption>
+	<figcaption>Rendered image of a Luhr lock barb attachment with a cross section showing internal threads. Modeled by me in Solidworks, based on ISO standard 80369-7:2016</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl }}/assets/luhr_barb.JPG" alt="Printed Luhr barb"/>
-	<figcaption></figcaption>
+	<figcaption>Printed Luhr lock barb. This piece is used to attach tubing to syringes</figcaption>
 </figure>
 
 
-More information about Dr. Claussen's research group can be found on the [group website](http://web.me.iastate.edu/claussen/).
+More information about Dr. Claussen's research group and its publications can be found on the [group website](http://web.me.iastate.edu/claussen/).
