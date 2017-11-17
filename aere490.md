@@ -20,4 +20,9 @@ I work on the Impact Tool Style Testing team. Our group is responsible for evalu
 </figure>
 This rig will be used to test the effectiveness of fracturing ice for a variety of different ice samples. There is not much data on regolith properties on the poles of the moon where our device would mine ice. One of the sub-groups is focusing solely on creating a variety of samples with different percentages of sand mixed in with the ice. Early results seem to indicate that for this ice-regolith simulant, a blade-shaped impact tool would be more effective at freeing ice than a chisel style tool.
 
-As part of the sponsorship from Caterpillar, our class presented to a group of Caterpiller engineers at their Peoria, Illinois headquarters early in the semester. During this initial review, I presented information about last year's Failure Mode Effects Analysis and how we used it to guide our testing for this semester.  We will present our data and conclusions again at the end of the semester as well. The goal of these presentations is to simulate a gate review process for product development. We are currently in the technical feasibility stage of research and development. 
+As part of the sponsorship from Caterpillar, our class presented to a group of Caterpillar engineers at their Peoria, Illinois headquarters early in the semester. During this initial review, I presented information about last year's Failure Mode Effects Analysis and how we used it to guide our testing for this semester.  We will present our data and conclusions again at the end of the semester as well. The goal of these presentations is to simulate a gate review process for product development. We are currently in the technical feasibility stage of research and development. 
+
+<figure>
+	<img src="{{ site.baseurl }}/assets/Caterpillar.jpg" alt="Group photo at Caterpillar headquarters"/>
+	<figcaption>Our class after presenting at the Caterpillar headquarters in Peoria Illinois</figcaption>
+</figure>
