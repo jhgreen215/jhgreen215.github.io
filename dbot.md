@@ -10,9 +10,9 @@ The printer is nearing completion, with the frame completely assembled and most 
 
 <figure>
 	<img src="{{ site.baseurl }}/assets/dbot.JPG" alt="Recent picture of the D-Bot printer"/>
-	<figcaption></figcaption>
+	<figcaption>A recent picture of the build progress, showing the beginning steps of wiring. Also on my to-do list is ordering and installing a build plate</figcaption>
 </figure>
-For the most part, I have been following the standard D-Bot build guide, however I have made a few modifications. I added a third leadscrew for the z-platform in order to increase the build plate stability. The three leadscrews are connected by a belt and pulleys and driven by a single motor. 
+For the most part, I have been following the standard D-Bot build guide, however, I have made some modifications. I added a third leadscrew for the z-platform in order to increase the build plate stability. The three leadscrews are connected by a belt and pulleys and driven by a single motor. Also, to increase bed leveling reliability, I will use a three-point bed leveling system rather than the suggested four-point leveling system.
 
 
 D-Bot Build FAQ:
